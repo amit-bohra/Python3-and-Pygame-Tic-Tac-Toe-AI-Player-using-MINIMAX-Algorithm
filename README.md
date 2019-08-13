@@ -4,4 +4,4 @@ You will Require:
 
 pygame, sys, time, random, itertools, functools, time, os, pickle
 
-run the "toe.py"
+run the "tictactoe.py"
