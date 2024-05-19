@@ -5,3 +5,6 @@ You will Require:
 pygame, sys, time, random, itertools, functools, time, os, pickle
 
 run the "tictactoe.py"
+
+
+<img src="Screenshot 2024-05-19 at 8.10.16 PM.png"/>
